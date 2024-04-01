@@ -1,10 +1,8 @@
 - 👋 Hi, I’m vincius daniel
 - 👀 I’m interested in aprender e praticar
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning Programação web e mobile 
+- 📫 How to reach me: vinidrb69@gmail.com ou 81984138346
+
 
 <!---
 vinidrb/vinidrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
